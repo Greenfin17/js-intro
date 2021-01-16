@@ -1,1 +1,2 @@
-# js-intro
+# Introduction to Javascript
+### Repository js-intro
