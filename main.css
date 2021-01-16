@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background-color: rgb(129, 114, 153);
+}
+h1 {
+  text-align: center;
+}
+main {
+  height: 100px;
+}
+ul {
+  display: flex;
+  justify-content: flex-end;
+}
+li {
+  list-style-type: none;
+  padding: 10px;
+}
+footer {
+  margin-top: 20px;
+}
